@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.session
+
+# Databases
+*.db
+data/*.db
+
+# IDE settings
+.idea/
+.vscode/
+
+# Mac / Windows trash
+.DS_Store
+Thumbs.db
